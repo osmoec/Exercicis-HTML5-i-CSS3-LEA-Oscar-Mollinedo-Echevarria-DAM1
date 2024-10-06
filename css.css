@@ -75,7 +75,7 @@ nav div:hover a{
 article{
     float: left;
     height: 70%;
-    width: 78%;
+    width: 80%;
     background-color: green;
     border: black 2px solid;
     margin-bottom: 1%;
@@ -109,7 +109,7 @@ article div img{
 
 article div p{
     color: darkgrey;
-    font-size: 1.7em;
+    font-size: 2em;
 }
 
 form{
@@ -194,7 +194,7 @@ article div form h1{
 
 article ul li{
     color: darkgrey;
-    font-size: 1.5em;
+    font-size: 2em;
 }
 
 article div * {
@@ -202,6 +202,7 @@ article div * {
 }
 
 aside{
+    margin-top: -15px;
     margin-left: 1%;
     float: left;
     height: 65%;
@@ -430,7 +431,8 @@ footer p{
         height: 70%;
         width: 18%;
         background-color: blue;
-        margin-top: -0.1%;
+        margin-top: -20px;
+        margin-bottom: 20px;
         margin-left: 1%;
         border: black 3px solid;
     }
@@ -453,7 +455,7 @@ footer p{
 
     aside a{
         text-align: left;
-        font-size: 1.5rem;
+        font-size: 1.1rem;
         color: white;
     }
 
@@ -463,6 +465,7 @@ footer p{
         height: 10%;
         width: 99%;
         margin-right: 1%;
+        margin-top: 20px;
         align-content: center;
         border: 3px solid black;
     }
